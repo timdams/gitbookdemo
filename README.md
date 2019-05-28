@@ -34,7 +34,5 @@ Bonjour
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://ap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=21b3602b-d4db-476d-a0f6-aa5a00923dc5" %}
-
-
+{% embed url="https://ap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=21b3602b-d4db-476d-a0f6-aa5a00923dc5" caption="" %}
 
