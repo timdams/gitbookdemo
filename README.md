@@ -6,8 +6,6 @@ description: Introductie komt hier
 
 ## Woordje uitleg
 
-
-
 ```text
 graph TD
 A[Christmas] -->|Get money| B(Go shopping)
