@@ -6,6 +6,21 @@ description: Introductie komt hier
 
 ## Woordje uitleg
 
+
+
+```text
+graph TD
+A[Christmas] -->|Get money| B(Go shopping)
+B --> C{Let me think}
+C -->|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[Car]
+```
+
+
+
+
+
 Welkom op deze demo cursus van AP.
 
 ### Een subsectie zoals je rechts kunt zien
